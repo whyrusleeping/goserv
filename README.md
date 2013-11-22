@@ -8,8 +8,11 @@ a Super basic http server for quickly serving files on your own computer.
 
 ## Usage
 To serve the current working directory:
+
 `goserv .`
 
+
 Or any other directory:
+
 `goserv /home/whyrusleeping`
 
