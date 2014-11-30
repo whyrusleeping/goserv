@@ -16,3 +16,5 @@ Or any other directory:
 
 `goserv /home/whyrusleeping`
 
+## License
+This project is under an MIT license.
